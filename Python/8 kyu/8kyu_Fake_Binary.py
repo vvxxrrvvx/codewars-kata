@@ -1,0 +1,1 @@
+fake_bin=lambda x: ''.join(map(lambda char:'1' if int(char)>=5 else '0',filter(str.isdigit,x)))

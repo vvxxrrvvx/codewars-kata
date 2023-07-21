@@ -1,0 +1,1 @@
+capitalize_word=lambda word:word[:1].upper()+word[1:].lower()if word else""
