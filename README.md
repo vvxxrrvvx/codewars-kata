@@ -1,4 +1,13 @@
-<h1 align="center">CodeWars-solutions</h1>
+<h1 align="center">CodeWars</h1>
+
+<p align="center"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="40" height="40"/> 
+<img src="https://github.com/ShyHornet/swiftLogo/blob/resources/home-hero-swift-hero_2x.png" width="40" height="40"/>
+</p>
 
 ### Disclaimer
 
