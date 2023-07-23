@@ -15,7 +15,6 @@ def elder_age(m,n,l,t):
     lm,ln=lp(m),lp(n)
     if l>ln:
         return 0
-
     if lm == ln:
         return (rs(1,ln-l-1)*(m+n-ln)+elder_age(ln-n,lm-m,l,t))% t
     
